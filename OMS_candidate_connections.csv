@@ -1,5 +1,5 @@
 OMS Candidate Connection List
 
 From,To,Name,Supported Link,Type,Sub-routes
-node_0,node_1,node_0 <cc> node_1,node_0 <c> node_1,LH 40-WDM,start_node,node_0,designations,node_0 <-> node_1,priority,0,direction,forward,type,no_protection
+node_0,node_1,node_0 <cc> node_1,node_0 <c> node_1,No-WDM,start_node,node_0,designations,node_0 <-> node_1,priority,0,direction,forward,type,no_protection
 ,,,,,start_node,node_1,designations,node_0 <-> node_1,priority,0,direction,reverse,type,no_protection

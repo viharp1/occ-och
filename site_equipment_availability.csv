@@ -1,0 +1,7 @@
+Site Equipment Availabilities
+
+OCH Link Name,Site Index,Method,Value,MTTR,Link Directions
+node_0 <-> node_1,0,INHERIT,1,0,forward
+node_0 <-> node_1,1,INHERIT,1,0,forward
+node_0 <-> node_1,0,INHERIT,1,0,reverse
+node_0 <-> node_1,1,INHERIT,1,0,reverse
