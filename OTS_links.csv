@@ -1,0 +1,5 @@
+OTS Links
+Trailing,no
+
+From,To,Length,Fibers,Cost,Designation,Delay
+node_0,node_1,1531.72499689127,100,1,node_0 <-> node_1,FIBER
